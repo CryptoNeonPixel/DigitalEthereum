@@ -1,0 +1,13 @@
+@forward './settings/_colors.scss';
+
+@forward './generic/_variables.scss';
+@forward './generic/_vuetify.scss';
+@forward './generic/_layout.scss';
+@forward './generic/_animations.scss';
+@forward './generic/_list.scss';
+
+@forward './components/_chat.scss';
+@forward './components/_login-form.scss';
+@forward './components/_arrow-return.scss';
+
+@forward './themes/adamant/_index.scss';
